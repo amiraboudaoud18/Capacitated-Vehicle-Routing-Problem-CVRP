@@ -6,13 +6,6 @@ This project addresses the Capacitated Vehicle Routing Problem (CVRP), a critica
 ## Problem Statement
 The CVRP involves designing optimal routes for a fleet of vehicles from a central warehouse to multiple customers. Each vehicle has a capacity limit, and the objective is to minimize the total distance or cost traveled while ensuring that each customer is visited exactly once and vehicle capacities are not exceeded.
 
-## Mathematical Formulation
-The problem is mathematically formulated with the following key components:
-
-- ![Alt text](/mathematical formulation 1.png)
-- ![Alt text](/mathematical formulation 2.png)
-
-
 ## Complexity and Solution Approach
 CVRP is an NP-hard problem, implying that no known polynomial-time algorithms can solve large instances exactly. The solution space grows exponentially with the number of customers, making exact solutions infeasible for large-scale problems. 
 
