@@ -9,8 +9,8 @@ The CVRP involves designing optimal routes for a fleet of vehicles from a centra
 ## Mathematical Formulation
 The problem is mathematically formulated with the following key components:
 
-- ![Alt text](images/mathematical formulation 1.png)
-- ![Alt text](images/mathematical formulation 2.png)
+- ![Alt text](/mathematical formulation 1.png)
+- ![Alt text](/mathematical formulation 2.png)
 
 
 ## Complexity and Solution Approach
